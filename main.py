@@ -4,4 +4,4 @@ def factorial(x):
     for i in range(1, x):
         y = y * i 
     return y
-print(factorial(10))
+print(factorial(18))
